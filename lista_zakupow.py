@@ -17,3 +17,7 @@ print("mam zagadkę: jak blondynki robią dżem?")
 print()
 print("Nie wiem")
 print("obierają pączki")
+
+print()
+print()
+print("serdecznie pozdrawiam Mentora, mam nadzieję, że uda mi się szybko nadrobić zaległości")
