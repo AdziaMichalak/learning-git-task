@@ -12,3 +12,8 @@ print(f"w sumie kupuję {len(lista1) + len(lista2)} produktów".capitalize())
 
 print("hello, dawno mnie tu nie było")
 print("muszę szybko nadrobić zaległości")
+
+print("mam zagadkę: jak blondynki robią dżem?")
+print()
+print("Nie wiem")
+print("obierają pączki")
